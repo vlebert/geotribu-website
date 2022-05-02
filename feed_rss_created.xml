@@ -1,0 +1,2145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Geotribu</title>
+    <description>Site indépendant de veille sur la géomatique libre et open source. Articles, tutoriels et revues de presse (#GeoRDP) sur l&#39;information géographique, les SIG, la cartographie, la représentation des données...</description>
+    <link>https://static.geotribu.fr/</link>
+    <atom:link href="https://static.geotribu.fr/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+
+    
+    <managingEditor>Geotribu</managingEditor>
+    <docs>https://github.com/geotribu/website</docs>
+    <language>en</language>
+
+    
+    <pubDate>Mon, 02 May 2022 09:08:48 -0000</pubDate>
+    <lastBuildDate>Mon, 02 May 2022 09:08:48 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.1.0</generator>
+
+    
+    
+    <image>
+      <url>https://cdn.geotribu.fr/img/internal/charte/geotribu_logo_64x64.png</url>
+      <title>Geotribu</title>
+      <link>https://static.geotribu.fr/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>Revue de presse du 29 avril 2022</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Centipede</category>
+        
+      <category>IA</category>
+        
+      <category>Leaflet</category>
+        
+      <category>LiDAR</category>
+        
+      <category>Mapillary</category>
+        
+      <category>OPenIG</category>
+        
+      <category>TVBN</category>
+        
+      <category>changement climatique</category>
+        
+      <category>jeux vidéo</category>
+        
+      <category>revue de presse</category>
+        
+      <category>trame noire</category>
+        
+      <category>écologie</category>
+        
+      
+      <description>Dans la veille cartographique de la quinzaine : Leaflet 1.8, séminaire Centipède RTK, journée OPenIG, Mapillary et street view fait maison, un atlas des cartes de jeux vidéos et la géomatique dans le concours MT180.</description>
+      <link>https://static.geotribu.fr/rdp/2022/rdp_2022-04-29/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 29 Apr 2022 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2022/rdp_2022-04-29/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2022/rdp_2022-04-29/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/vgmaps_carte_jeu_video.jpeg" type="image/jpeg" length="199495" />
+      
+    </item>
+    
+    <item>
+      <title>Quand QGIS nous régale d&#39;Easter eggs !</title>
+      
+      
+        
+      <author>Delphine MONTAGNE</author>
+        
+      <author>Julien MOURA</author>
+        
+      
+      
+      
+        
+      <category>Easter eggs</category>
+        
+      <category>GitHub</category>
+        
+      <category>PyQGIS</category>
+        
+      <category>QGIS</category>
+        
+      <category>article</category>
+        
+      <category>cartographie</category>
+        
+      <category>jeux vidéo</category>
+        
+      
+      <description>Easter egg, une tradition technique qui se marie bien à la cartographie. Certains des Easter eggs de QGIS sont connus : dizzy, contributors.... Mais comment les dénicher à coup sûr ? Suivez le lapin blanc dans le voyage au coeur du terrier de QGIS !</description>
+      <link>https://static.geotribu.fr/articles/2022/2022-04-18_easter_eggs_qgis_regale/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Mon, 18 Apr 2022 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2022/2022-04-18_easter_eggs_qgis_regale/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2022/2022-04-18_easter_eggs_qgis_regale/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_easter_eggs/qgis_316_easteregg_user_groups.png" type="image/png" length="152078" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 15 avril 2022</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>BDNB</category>
+        
+      <category>CSTB</category>
+        
+      <category>Europe</category>
+        
+      <category>France Info</category>
+        
+      <category>GraphHopper</category>
+        
+      <category>IGN</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>Quotidien</category>
+        
+      <category>cartographie</category>
+        
+      <category>pgDay</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Les cloches ont sonné avec un peu d’avance dans le GeoTipi : QField, GraphHopper, OpenStreetMap, BDNB, PG Day,...</description>
+      <link>https://static.geotribu.fr/rdp/2022/rdp_2022-04-15/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 15 Apr 2022 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2022/rdp_2022-04-15/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2022/rdp_2022-04-15/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/schema_BDNB.jpg" type="image/jpeg" length="81135" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 1 avril 2022</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>FOSS4G</category>
+        
+      <category>OTB</category>
+        
+      <category>Orfeo ToolBox</category>
+        
+      <category>SIGAT</category>
+        
+      <category>art</category>
+        
+      <category>cartographie</category>
+        
+      <category>catalogage</category>
+        
+      <category>geOrchestra</category>
+        
+      <category>géodésie</category>
+        
+      <category>hackaton</category>
+        
+      <category>métadonnées</category>
+        
+      <category>open data</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Géodésie vulgarisée, cartes dessinnées, nouvelle version d&#39;OTB, des tutoriels QGIS détaillés, GéoRivière publiée, geOcom programmé, un nouvel horizon pour les métadonnées : la GeoRDP libérée !</description>
+      <link>https://static.geotribu.fr/rdp/2022/rdp_2022-04-01/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 01 Apr 2022 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2022/rdp_2022-04-01/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2022/rdp_2022-04-01/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/qgis/qgis_analyse_reseau_sigat.jpeg" type="image/jpeg" length="64569" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 18 mars 2022</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>CNIG</category>
+        
+      <category>GPU</category>
+        
+      <category>GeoParquet</category>
+        
+      <category>GéoDataDays</category>
+        
+      <category>IGN</category>
+        
+      <category>Leaflet</category>
+        
+      <category>LiDAR</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>PROJ</category>
+        
+      <category>Python</category>
+        
+      <category>QGIS</category>
+        
+      <category>WebAssembly</category>
+        
+      <category>accessibilité</category>
+        
+      <category>globe</category>
+        
+      <category>géo-communs</category>
+        
+      <category>icônes</category>
+        
+      <category>modèle numérique d'élévation</category>
+        
+      <category>métier</category>
+        
+      <category>prettymaps</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Dans la GeoRDP : de jolis globes, des modèles d&#39;élévation artistiques, un nouveau format géospatial compatible Parquet (Hadoop), QGIS dans le navigateur, le set d&#39;icônes Maki repackagé, une lib Python pour faire de jolies cartes facilement, etc.</description>
+      <link>https://static.geotribu.fr/rdp/2022/rdp_2022-03-18/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 18 Mar 2022 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2022/rdp_2022-03-18/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2022/rdp_2022-03-18/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/qgis/qgis_rem_idw_daniel_coe.jpg" type="image/jpeg" length="139420" />
+      
+    </item>
+    
+    <item>
+      <title>Effectuer un relevé de terrain avec QGIS et Input</title>
+      
+      
+        
+      <author>Cedric ROSSI</author>
+        
+      
+      
+      
+        
+      <category>Input</category>
+        
+      <category>Mergin</category>
+        
+      <category>QField</category>
+        
+      <category>QGIS</category>
+        
+      <category>article</category>
+        
+      <category>collecte</category>
+        
+      
+      <description>Comment relever des données SIG sur le terrain avec l&#39;application mobile Input, et les synchroniser avec QGIS. Exemple d&#39;un inventaire d&#39;arbres urbains</description>
+      <link>https://static.geotribu.fr/articles/2022/2022-03-11_releve_terrain_qgis_input/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 11 Mar 2022 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2022/2022-03-11_releve_terrain_qgis_input/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2022/2022-03-11_releve_terrain_qgis_input/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/qgis_input_inventaire_arbres_urbains/result-qgis.png" type="image/png" length="85911" />
+      
+    </item>
+    
+    <item>
+      <title>Éclairage Public - Gestion et visualisation du réseau avec QGIS et PostGIS</title>
+      
+      
+        
+      <author>Stéphane RITZENTHALER</author>
+        
+      
+      
+      
+        
+      <category>PostGIS</category>
+        
+      <category>PostgreSQL</category>
+        
+      <category>QGIS</category>
+        
+      <category>SQL</category>
+        
+      <category>article</category>
+        
+      <category>éclairage public</category>
+        
+      
+      <description>Création d&#39;une base de données PostgreSQL/PostGIS pour la visualisation et la gestion du réseau d&#39;éclairage public sur QGIS par une collectivité.</description>
+      <link>https://static.geotribu.fr/articles/2022/2022-03-08_qgis_postgis_gestion_eclairage_public/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 08 Mar 2022 10:30:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2022/2022-03-08_qgis_postgis_gestion_eclairage_public/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2022/2022-03-08_qgis_postgis_gestion_eclairage_public/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/qgis_postgis_eclairage_public/qgis_postgis_EP.png" type="image/png" length="394654" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 4 mars 2022</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Centipede</category>
+        
+      <category>Dessous des cartes</category>
+        
+      <category>France Culture</category>
+        
+      <category>ONU</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>Prodig</category>
+        
+      <category>cartographie</category>
+        
+      <category>contribution</category>
+        
+      <category>couleurs</category>
+        
+      <category>newsletter</category>
+        
+      <category>open data</category>
+        
+      <category>recherche</category>
+        
+      <category>revue de presse</category>
+        
+      <category>élection</category>
+        
+      <category>élévation</category>
+        
+      
+      <description>La saison des carto-fromages fondus est bientôt terminée, donc compensez avec de la géo-news</description>
+      <link>https://static.geotribu.fr/rdp/2022/rdp_2022-03-04/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 04 Mar 2022 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2022/rdp_2022-03-04/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2022/rdp_2022-03-04/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/steve_parker_ukraine.jpeg" type="image/jpeg" length="215912" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 18 février 2022</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>FOSS4G</category>
+        
+      <category>Géoséminaire</category>
+        
+      <category>LIDAR</category>
+        
+      <category>Lizmap</category>
+        
+      <category>MapStore</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>PCRS</category>
+        
+      <category>QGIS</category>
+        
+      <category>Worldle</category>
+        
+      <category>geOrchestra</category>
+        
+      <category>projection</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>C&#39;est la période alors on a chaussé les skis pour slalomer dans le meilleur de l&#39;actualité géomatique.</description>
+      <link>https://static.geotribu.fr/rdp/2022/rdp_2022-02-18/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 18 Feb 2022 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2022/rdp_2022-02-18/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2022/rdp_2022-02-18/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/evenement/SotM.jpeg" type="image/jpeg" length="48995" />
+      
+    </item>
+    
+    <item>
+      <title>Dashboard QGIS : suivi des indicateurs adresse du Département du Calvados</title>
+      
+      
+        
+      <author>Théo GRONDIN</author>
+        
+      
+      
+      
+        
+      <category>BAN</category>
+        
+      <category>QGIS</category>
+        
+      <category>adresse</category>
+        
+      <category>article</category>
+        
+      <category>dashboard</category>
+        
+      <category>loi 3DS</category>
+        
+      <category>tableau de bord</category>
+        
+      
+      <description>Mise en place d&#39;un tableau de bord QGIS par manipulation d&#39;étiquettes de couches dans le cadre du suivi de projet adressage - Pôle SIG du Département du Calvados.</description>
+      <link>https://static.geotribu.fr/articles/2022/2022-02-11_dashboard_qgis_adresse_CD14/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 11 Feb 2022 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2022/2022-02-11_dashboard_qgis_adresse_CD14/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2022/2022-02-11_dashboard_qgis_adresse_CD14/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/qgis_dashboard_calvados/intro.png " type="None" length="442568" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 4 février 2022</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Bertin</category>
+        
+      <category>CNES</category>
+        
+      <category>GRASS GIS</category>
+        
+      <category>GéoDataDays</category>
+        
+      <category>H2GIS</category>
+        
+      <category>OrbisGIS</category>
+        
+      <category>Pic4Review</category>
+        
+      <category>SDIS</category>
+        
+      <category>Streamlit</category>
+        
+      <category>Tropicamap</category>
+        
+      <category>cours</category>
+        
+      <category>open data</category>
+        
+      <category>revue de presse</category>
+        
+      <category>satellite</category>
+        
+      
+      <description>Venez découvrir les attractions de cette GeoRDP. On vous promet une expérience unique et pleine de sensations avec pour ne citez qu&#39;eux :  GRASS GIS et l’aventure 4D, le CNES un destin magique, l’extraordinaire voyage de la donnée,...</description>
+      <link>https://static.geotribu.fr/rdp/2022/rdp_2022-02-04/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 04 Feb 2022 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2022/rdp_2022-02-04/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2022/rdp_2022-02-04/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/evenement/2022_geodatadays.jpg" type="image/jpeg" length="89500" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 21 janvier 2022</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Atlas of Design</category>
+        
+      <category>BNF</category>
+        
+      <category>Dessous des cartes</category>
+        
+      <category>ESA</category>
+        
+      <category>France Inter</category>
+        
+      <category>Gallica</category>
+        
+      <category>LEGO</category>
+        
+      <category>LIDAR</category>
+        
+      <category>NACIS</category>
+        
+      <category>PDF Map Maker</category>
+        
+      <category>Quotidien</category>
+        
+      <category>Table Schema</category>
+        
+      <category>Wikipédia</category>
+        
+      <category>blob</category>
+        
+      <category>carte</category>
+        
+      <category>open data</category>
+        
+      <category>peinture</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Une GeoRDP haute en couleurs et en diversité : la cartographie confirme son statut de sujet &#39;hype&#39; avec la chronique TV de Jules Grandin dans Quotidien ; l&#39;histoire de l&#39;atlas lunaire et d&#39;une cartographe russe ; l&#39;initiative pour mieux gérer la géographie dans les outils de validation des schémas et encore de nombreux autres sujets !</description>
+      <link>https://static.geotribu.fr/rdp/2022/rdp_2022-01-21/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 21 Jan 2022 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2022/rdp_2022-01-21/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2022/rdp_2022-01-21/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/bnf_amazone.png" type="image/png" length="851673" />
+      
+    </item>
+    
+    <item>
+      <title>3DS : mesurer l&#39;impact du transfert des Routes Nationales aux Départements</title>
+      
+      
+        
+      <author>Michaël GALIEN</author>
+        
+      
+      
+      
+        
+      <category>PostGIS</category>
+        
+      <category>PostgreSQL</category>
+        
+      <category>SQL</category>
+        
+      <category>article</category>
+        
+      <category>loi 3DS</category>
+        
+      <category>route</category>
+        
+      <category>voirie</category>
+        
+      
+      <description>Etude d&#39;impacts du déclassement de la voirie nationale aux Départements dans le cadre de la loi 3DS ; loi relative à la Différenciation, la Décentralisation, la Déconcentration et portant diverses mesures de Simplification de l&#39;action publique locale.</description>
+      <link>https://static.geotribu.fr/articles/2022/2022-01-14_etude_impacts_loi_3ds_voirie/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 14 Jan 2022 10:00:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2022/2022-01-14_etude_impacts_loi_3ds_voirie/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2022/2022-01-14_etude_impacts_loi_3ds_voirie/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/etude_impacts_loi_3ds_voirie/etude_impacts_loi_3ds_voirie-logo.png" type="image/png" length="72151" />
+      
+    </item>
+    
+    <item>
+      <title>Journées QGIS FR 2022 - Prérequis ateliers</title>
+      
+      
+        
+      <author>Julien Moura</author>
+        
+      
+      
+      
+        
+      <category>OSGeo France</category>
+        
+      <category>QGIS</category>
+        
+      <category>article</category>
+        
+      <category>événement</category>
+        
+      
+      <description>Les 18 et 19 janvier prochains se tiendront les journées QGIS en distanciel : liens utiles et liste d&#39;inventaire pour mes ateliers (rattrapage).</description>
+      <link>https://static.geotribu.fr/articles/2022/2022-01-12_rencontres_qgis_francophones_liens_utiles_ateliers/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Wed, 12 Jan 2022 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2022/2022-01-12_rencontres_qgis_francophones_liens_utiles_ateliers/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2022/2022-01-12_rencontres_qgis_francophones_liens_utiles_ateliers/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/evenement/2022_01_rencontres_QGIS.jpg" type="image/jpeg" length="73624" />
+      
+    </item>
+    
+    <item>
+      <title>Comment j&#39;ai quantifié les inégalités de traitement météorologiques entre Brest et Dijon</title>
+      
+      
+        
+      <author>Victor ALEXANDRE</author>
+        
+      
+      
+      
+        
+      <category>R</category>
+        
+      <category>article</category>
+        
+      <category>météo</category>
+        
+      <category>télévision</category>
+        
+      
+      <description>Comment quantifier le temps passé par une présentatrice météo devant une zone de la carte de France : passer de la remarque d&#39;un canapé à une réponse circonstanciée</description>
+      <link>https://static.geotribu.fr/articles/2022/2022-01-11_quantifier_inegalites_traitement_meteo/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 11 Jan 2022 22:01:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2022/2022-01-11_quantifier_inegalites_traitement_meteo/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2022/2022-01-11_quantifier_inegalites_traitement_meteo/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/meteo_inegalites_traitement_avec_r/distance_moyenne_toutes_journees_toutes_sequences.jpg" type="image/jpeg" length="37307" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 7 janvier 2022</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Afigéo</category>
+        
+      <category>BAN</category>
+        
+      <category>CNES</category>
+        
+      <category>France Culture</category>
+        
+      <category>Géoportail</category>
+        
+      <category>IGN</category>
+        
+      <category>JavaScript</category>
+        
+      <category>Kart</category>
+        
+      <category>Observable</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>QGIS</category>
+        
+      <category>QgisModelBaker</category>
+        
+      <category>Tropicamap</category>
+        
+      <category>Wikipédia</category>
+        
+      <category>adresse</category>
+        
+      <category>pgDay</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Première revue de presse de 2022 qui commence fort avec des extensions intéressantes pour QGIS, notamment sur le versionnement et la gestion des projets, un générateur ludique de ville, un tutoriel pour mettre le pied à l&#39;étrier d&#39;Observable, un podcast sur l&#39;exploration urbaine (urbex) et plein d&#39;autres choses à découvrir.</description>
+      <link>https://static.geotribu.fr/rdp/2022/rdp_2022-01-07/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 07 Jan 2022 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2022/rdp_2022-01-07/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2022/rdp_2022-01-07/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/afigeo_adresse.jpg" type="image/jpeg" length="62886" />
+      
+    </item>
+    
+    <item>
+      <title>OpenStreetMap dans le terminal, en braille et en ASCII</title>
+      
+      
+        
+      <author>Jérémy Garniaux</author>
+        
+      
+      
+      
+        
+      <category>OpenStreetMap</category>
+        
+      <category>article</category>
+        
+      <category>mapscii</category>
+        
+      <category>nodejs</category>
+        
+      <category>terminal</category>
+        
+      
+      <description>Présentation de MapSCII, une application Node.js permettant de naviguer dans un version ASCII d&#39;OpenStreetMap depuis le terminal.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-12-31_mapscii_osm_terminal/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 31 Dec 2021 13:00:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-12-31_mapscii_osm_terminal/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-12-31_mapscii_osm_terminal/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/mapscii/mapscii_0.png" type="image/png" length="11726" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 24 décembre 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>CyclOSM</category>
+        
+      <category>France Culture</category>
+        
+      <category>GeoRezo</category>
+        
+      <category>OTB</category>
+        
+      <category>PGSession</category>
+        
+      <category>PostgreSQL</category>
+        
+      <category>Wikipédia</category>
+        
+      <category>cartographie</category>
+        
+      <category>géologie</category>
+        
+      <category>open data</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>GeoRDP du 24 décembre 2021 : Pour Noël, nos lutins vous ont préparé un beau sapin avec une guirlande cartographique, un traîneau d’open data, une étoile associative, un éléphant lumineux et des boules rasteurs.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-12-24/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 24 Dec 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-12-24/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-12-24/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/shapefile.jpg" type="image/jpeg" length="137139" />
+      
+    </item>
+    
+    <item>
+      <title>OpenMobilityIndicators, l&#39;appli &#39;Mon quartier à pied&#39; est en ligne</title>
+      
+      
+        
+      <author>Patrick GENDRE</author>
+        
+      
+      
+      
+        
+      <category>OpenStreetMap</category>
+        
+      <category>article</category>
+        
+      <category>marche</category>
+        
+      <category>mobilité</category>
+        
+      
+      <description>Open Mobility Indicators est un ensemble d’outils logiciels libres et collaboratifs qui traite les données ouvertes pour créer des indicateurs de mobilité durable.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-12-10_openmobilityindicators/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 10 Dec 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-12-10_openmobilityindicators/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-12-10_openmobilityindicators/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/open_mobility_indicators/OpenMobilityIndicators_apercu.png" type="image/png" length="152878" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 3 décembre 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>30DayMapChallenge</category>
+        
+      <category>BAL</category>
+        
+      <category>FIG</category>
+        
+      <category>GADM</category>
+        
+      <category>IGN</category>
+        
+      <category>MIT</category>
+        
+      <category>RPG</category>
+        
+      <category>adresse</category>
+        
+      <category>carte du métro</category>
+        
+      <category>carte mentale</category>
+        
+      <category>geOrchestra</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>GeoRDP du 3 décembre 2021 : fin du 30DayMapChallenge, début de l&#39;Advent of Code, vente des PILI historiques de la RATP, étude sur les outils d&#39;étiquetage, le sens de l&#39;orientation décrypté par le MIT, les événements 2022 à venir et la disponibilité du RPG 2020, de la BAL 1.3 et de GADM 4.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-12-03/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 03 Dec 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-12-03/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-12-03/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/pili_web_bbecquet.png" type="image/png" length="350158" />
+      
+    </item>
+    
+    <item>
+      <title>Le traitement des données OSM chez Geovelo</title>
+      
+      
+        
+      <author>Samuel Deschamps-Berger</author>
+        
+      
+      
+      
+        
+      <category>Geovelo</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>article</category>
+        
+      
+      <description>Etat des lieux des traitements OSM de geovelo</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-11-26_traitements_data_osm_geovelo/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 26 Nov 2021 08:00:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-11-26_traitements_data_osm_geovelo/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-11-26_traitements_data_osm_geovelo/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/geovelo_traitements_data_osm/visuels_app_geovelo.jpg" type="image/jpeg" length="49777" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 19 novembre 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>30DayMapChallenge</category>
+        
+      <category>Géoplateforme</category>
+        
+      <category>HERE</category>
+        
+      <category>IGN</category>
+        
+      <category>OSO</category>
+        
+      <category>Theia</category>
+        
+      <category>adresse</category>
+        
+      <category>gouvernement</category>
+        
+      <category>géo-communs</category>
+        
+      <category>icônes</category>
+        
+      <category>journalisme</category>
+        
+      <category>open source</category>
+        
+      <category>revue de presse</category>
+        
+      <category>régate</category>
+        
+      
+      <description>GeoRDP du 19 novembre 2021 : les communs avancent dans le gouvernement français, de la 3D automatisée, une belle régate présidentielle, HERE libère ses icônes, le 30DayMapChallenge bat son plein, etc. Ainsi va la vie de la géomatique libre et ouverte.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-11-19/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 19 Nov 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-11-19/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-11-19/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/regate_presidentielle.png" type="image/png" length="294214" />
+      
+    </item>
+    
+    <item>
+      <title>Faire une carte en relief des Écrins</title>
+      
+      
+        
+      <author>Jean-Marc Viglino</author>
+        
+      
+      
+      
+        
+      <category>3D</category>
+        
+      <category>BDAlti</category>
+        
+      <category>DEM</category>
+        
+      <category>QGIS</category>
+        
+      <category>article</category>
+        
+      <category>relief</category>
+        
+      <category>three.js</category>
+        
+      <category>tutoriel</category>
+        
+      
+      <description>Réalisez facilement une carte en relief du Parc National des Écrins avec des données IGN et QGIS. #30DayMapChallenge 2021.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-11-11_carte_en_relief_des_ecrins/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Thu, 11 Nov 2021 08:00:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-11-11_carte_en_relief_des_ecrins/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-11-11_carte_en_relief_des_ecrins/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/carte_en_relief_des_ecrins/0-head.jpg" type="image/jpeg" length="174277" />
+      
+    </item>
+    
+    <item>
+      <title>Géo-lecture : L&#39;enfer du numérique</title>
+      
+      
+        
+      <author>Aurélien Chaumet</author>
+        
+      
+      
+      
+        
+      <category>article</category>
+        
+      <category>environnement</category>
+        
+      <category>géo-lecture</category>
+        
+      <category>lecture</category>
+        
+      <category>numérique</category>
+        
+      <category>sobriété</category>
+        
+      <category>écologie</category>
+        
+      
+      <description>Quelques éléments de lecture et de réflexions autour du livre de Guillaume Pitron : l&#39;enfer du numérique - Voyage au bout d&#39;un clic. L&#39;auteur souhaite que nous nous questionnions sur l&#39;impact physique et matériel de nos actes numériques</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-11-09_fiche_geolecture_enfer_numerique/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 09 Nov 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-11-09_fiche_geolecture_enfer_numerique/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-11-09_fiche_geolecture_enfer_numerique/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/geolecture_enfer_numerique/enfer_numerique.png" type="image/png" length="292989" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 5 novembre 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>CRAIG</category>
+        
+      <category>CRIGE PACA</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>Overpass Turbo</category>
+        
+      <category>QField</category>
+        
+      <category>QGIS</category>
+        
+      <category>Twitter</category>
+        
+      <category>application</category>
+        
+      <category>carburants</category>
+        
+      <category>français</category>
+        
+      <category>qualité</category>
+        
+      <category>revue de presse</category>
+        
+      <category>société</category>
+        
+      <category>train</category>
+        
+      <category>vélo</category>
+        
+      
+      <description>GeoRDP du 5 novembre 2021 : Tournée de géo-sucreries et carto-farces pour tout le monde avec notamment la mise à jour de QField, le début du #30DayMapChallenge, une vidéo sur OverPass Turbo</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-11-05/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 05 Nov 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-11-05/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-11-05/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/divers/R_Guedon_Projection_Werner.jpeg" type="image/jpeg" length="119258" />
+      
+    </item>
+    
+    <item>
+      <title>A la redécouverte de QGIS 0.x</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      
+      
+        
+      <category>Halloween</category>
+        
+      <category>QGIS</category>
+        
+      <category>article</category>
+        
+      
+      <description>Tiens et si on installait QGIS 0.9 Ganymède en 2021 et qu&#39;on essayait de faire une carte ? Petit voyage dans le temps.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-10-31_retour-vers-le-futur-de-qgis-ganymede/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 31 Oct 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-10-31_retour-vers-le-futur-de-qgis-ganymede/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-10-31_retour-vers-le-futur-de-qgis-ganymede/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/logiciels/qgis/qgis_0x/qgis_0-9_ganymede_splash.png" type="image/png" length="261979" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 22 octobre 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GPS</category>
+        
+      <category>Geotrek</category>
+        
+      <category>Input app</category>
+        
+      <category>OSGeo</category>
+        
+      <category>QGIS</category>
+        
+      <category>QompliGIS</category>
+        
+      <category>R</category>
+        
+      <category>carte de flux</category>
+        
+      <category>cartogramme</category>
+        
+      <category>deep fake</category>
+        
+      <category>livre</category>
+        
+      <category>projection</category>
+        
+      <category>revue de presse</category>
+        
+      <category>train</category>
+        
+      
+      <description>GeoRDP du 22 octobre 2021 : On vous emmène cette semaine à la découverte des dernières actualités de la géomatix. QGIS 3.22, QompliGIS, Input, R, deep fakes, carte des trains, cartogrammes, etc.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-10-22/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 22 Oct 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-10-22/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-10-22/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/divers/obelix_asterix_vignette.png" type="image/png" length="527220" />
+      
+    </item>
+    
+    <item>
+      <title>Tchattez avec l&#39;OSGeo France</title>
+      
+      
+        
+      <author>Loïc BARTOLETTI</author>
+        
+      <author>Julien MOURA</author>
+        
+      <author>Nicolas ROELANDT</author>
+        
+      
+      
+      
+        
+      <category>IRC</category>
+        
+      <category>Matrix</category>
+        
+      <category>OSGeo France</category>
+        
+      <category>article</category>
+        
+      <category>communauté</category>
+        
+      
+      <description>Viens discuter avec les utilisateur/ices francophones de tes logiciels SIG open source préférés (QGIS, GRASS, GDAL...) !</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-10-15_irc_osgeo/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 15 Oct 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-10-15_irc_osgeo/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-10-15_irc_osgeo/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/logos-icones/entreprises_association/osgeo_fr_banniere_francophone.png" type="image/png" length="55029" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 8 octobre 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>30DayMapChallenge</category>
+        
+      <category>CNIG</category>
+        
+      <category>Centipede</category>
+        
+      <category>GPS</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>PostgreSQL</category>
+        
+      <category>QField</category>
+        
+      <category>QGIS</category>
+        
+      <category>QUADOGEO</category>
+        
+      <category>RTK</category>
+        
+      <category>gouvernance</category>
+        
+      <category>livre</category>
+        
+      <category>mobilité</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>PostgreSQL 14, gouvernance et qualité des données géographiques, Strav&#39;art, les 10 ans d&#39;OSM France, Centipede RTK, etc.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-10-08/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 08 Oct 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-10-08/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-10-08/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/Peng.jpg" type="image/jpeg" length="51813" />
+      
+    </item>
+    
+    <item>
+      <title>Intégrer les données OpenStreetMap dans son SIG pour s&#39;engager dans un processus de contribution réciproque</title>
+      
+      
+        
+      <author>Florian Boret</author>
+        
+      
+      
+      
+        
+      <category>Bash</category>
+        
+      <category>OGR</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>PostGIS</category>
+        
+      <category>PostgreSQL</category>
+        
+      <category>SQL</category>
+        
+      <category>article</category>
+        
+      <category>cURL</category>
+        
+      <category>data</category>
+        
+      <category>tutoriel</category>
+        
+      
+      <description>Intégrer les données OpenStreetMap dans son SIG pour s&#39;engager dans un processus de contribution réciproque</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-10-05_lien_sig_osm/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 05 Oct 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-10-05_lien_sig_osm/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-10-05_lien_sig_osm/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/lien_osm_sig/osm_sig.png" type="image/png" length="244360" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 24 septembre 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>CartONG</category>
+        
+      <category>DécryptaGéo</category>
+        
+      <category>Google Maps</category>
+        
+      <category>GéoDataDays</category>
+        
+      <category>Kalisio</category>
+        
+      <category>My Planet Maps</category>
+        
+      <category>SAGA</category>
+        
+      <category>SvelteJS</category>
+        
+      <category>Twitter</category>
+        
+      <category>Wikipédia</category>
+        
+      <category>carte des feux</category>
+        
+      <category>carte des vents</category>
+        
+      <category>féminisme</category>
+        
+      <category>jeux vidéo</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Une magnifique application en SvelteJS, 100 biographies de femmes géographes, un bot Twitter pour présenter l&#39;Occitanie, un point sur les GéoDataDays, les problèmes de Google Maps en Chine, le jeu du saute-canton, une visualisation des méga feux par le New-York Times, SAGA 8, etc.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-09-24/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 24 Sep 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-09-24/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-09-24/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/fluid_earth.png" type="image/png" length="820961" />
+      
+    </item>
+    
+    <item>
+      <title>ODK pour la collecte de données géo dans PostGIS (3/3)</title>
+      
+      
+        
+      <author>Mathieu BOSSAERT</author>
+        
+      
+      
+      
+        
+      <category>Android</category>
+        
+      <category>JSON</category>
+        
+      <category>ODK</category>
+        
+      <category>Open Data Kit</category>
+        
+      <category>PostGIS</category>
+        
+      <category>PostgreSQL</category>
+        
+      <category>SQL</category>
+        
+      <category>XML</category>
+        
+      <category>article</category>
+        
+      <category>collecte terrain</category>
+        
+      
+      <description>Troisième et dernier article de présentation de la suite Open Data Kit (ODK) et son intégration au SI du CEN d&#39;Occitanie et dans les processus métiers.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-09-22_odk_postgis_3/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Wed, 22 Sep 2021 10:30:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-09-22_odk_postgis_3/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-09-22_odk_postgis_3/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/odk_postgis_collecte/open_data_kit_postgresql.png" type="image/png" length="158394" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 10 septembre 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GéoDataDays</category>
+        
+      <category>OTB</category>
+        
+      <category>OpenArdenneMap</category>
+        
+      <category>Orfeo ToolBox</category>
+        
+      <category>QuickOSM</category>
+        
+      <category>WhiteboxTools</category>
+        
+      <category>frontière</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Petite grappe d&#39;actualités géomatiques dans cette GeoRDP qui sent les vendanges !</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-09-10/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 10 Sep 2021 18:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-09-10/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-09-10/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/openardennemap_compo.png" type="image/png" length="751555" />
+      
+    </item>
+    
+    <item>
+      <title>Utiliser GDAL pour traiter les fichiers de la Base Adresse Nationale et Locales</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      
+      
+        
+      <category>BAL</category>
+        
+      <category>BAN</category>
+        
+      <category>CSV</category>
+        
+      <category>GDAL</category>
+        
+      <category>OGR</category>
+        
+      <category>adresse</category>
+        
+      <category>article</category>
+        
+      <category>tutoriel</category>
+        
+      
+      <description>Travailler les données de la Base Adresse Nationale (BAN) avec GDAL/OGR, en tirant parti de l&#39;abstraction sur les systèmes de fichiers virtuels (VSI) et de la lecture (VRT).</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-09-07_traiter_fichiers_adresse_gdal_csv_vrt/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 07 Sep 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-09-07_traiter_fichiers_adresse_gdal_csv_vrt/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-09-07_traiter_fichiers_adresse_gdal_csv_vrt/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/gdal_bal/gdal_bal.png" type="image/png" length="465371" />
+      
+    </item>
+    
+    <item>
+      <title>Automatiser la publication et la mise à jour de données de PostgreSQL vers Data.gouv.fr</title>
+      
+      
+        
+      <author>Florian BORET</author>
+        
+      
+      
+      
+        
+      <category>API</category>
+        
+      <category>Bash</category>
+        
+      <category>OGR</category>
+        
+      <category>PostgreSQL</category>
+        
+      <category>article</category>
+        
+      <category>cURL</category>
+        
+      <category>data</category>
+        
+      <category>data.gouv.fr</category>
+        
+      <category>jq</category>
+        
+      <category>open data</category>
+        
+      <category>tutoriel</category>
+        
+      
+      <description>Automatiser la publication et la mise à jour de données entre PostgreSQL et Data.gouv.fr en utilisant OGR et l&#39;API data.gouv.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-08-31_pg2datagouv/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 31 Aug 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-08-31_pg2datagouv/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-08-31_pg2datagouv/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/pg2datagouv/pg2datagouv_illustration.png" type="image/png" length="103762" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 27 août 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Afrique</category>
+        
+      <category>Android</category>
+        
+      <category>Arduino</category>
+        
+      <category>DIY</category>
+        
+      <category>Google</category>
+        
+      <category>Géogame</category>
+        
+      <category>IGNMap</category>
+        
+      <category>Maps.me</category>
+        
+      <category>Organic Maps</category>
+        
+      <category>Pokémon</category>
+        
+      <category>cartographie</category>
+        
+      <category>devinettes</category>
+        
+      <category>globe</category>
+        
+      <category>incendie</category>
+        
+      <category>jeux vidéo</category>
+        
+      <category>revue de presse</category>
+        
+      <category>tuiles vectorielles</category>
+        
+      
+      <description>Rythme estival oblige, voici la GeoRDP mensuelle d&#39;août 2021. Idéale pour se remettre à jour juste avant la rentrée.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-08-27/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 27 Aug 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-08-27/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-08-27/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/geosm_italia.png" type="image/png" length="479400" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 30 juillet 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>3D</category>
+        
+      <category>CNIG</category>
+        
+      <category>France Inter</category>
+        
+      <category>Géoplateforme</category>
+        
+      <category>Géoservices</category>
+        
+      <category>IGN</category>
+        
+      <category>PCRS</category>
+        
+      <category>PostgreSQL</category>
+        
+      <category>QGIS</category>
+        
+      <category>inondation</category>
+        
+      <category>occupation du sol</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>GeoRDP du 30 juillet 2021 : La course de relais de l’actualité estivale est lancée avec la RDP de Juillet.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-07-30/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 30 Jul 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-07-30/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-07-30/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/3d_nautical_chart.jpg" type="image/jpeg" length="219925" />
+      
+    </item>
+    
+    <item>
+      <title>Mise à jour estivale 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Geotribu</category>
+        
+      <category>article</category>
+        
+      
+      <description>Ce vendredi, pas de revue de presse mais une revue des nouveautés du site récentes : licences, page d&#39;accueil et sponsoring à venir.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-07-16_relooking_nouveautes_geotribu/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 15:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-07-16_relooking_nouveautes_geotribu/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-07-16_relooking_nouveautes_geotribu/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_homepage_dark_2021-07-16.png" type="image/png" length="241194" />
+      
+    </item>
+    
+    <item>
+      <title>Préconfigurer QGIS en entreprise avec OSGEO4W</title>
+      
+      
+        
+      <author>Régis HAUBOURG</author>
+        
+      
+      
+      
+        
+      <category>OSGeo4W</category>
+        
+      <category>QGIS</category>
+        
+      <category>article</category>
+        
+      <category>configuration</category>
+        
+      <category>déploiement</category>
+        
+      <category>personnalisation</category>
+        
+      <category>tutoriel</category>
+        
+      
+      <description>vous voulez contrôler l&#39;interface et les paramètres de QGIS dans votre organisation. Ne pas infliger à vos utilisateurs de trifouiller les réglages du proxy, ou connaître l&#39;adresse IP des serveurs PostGIS ? Suivez le guide pour industrialiser votre installation personnalisée de QGIS.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-07-06_qgis_personnaliser_package_osgeo4w/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 06 Jul 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-07-06_qgis_personnaliser_package_osgeo4w/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-07-06_qgis_personnaliser_package_osgeo4w/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/qgis_customize_osgeo4w_rha/qgis_osgeo4w_voiture_rallye.png" type="image/png" length="657098" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 2 juillet 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Esri</category>
+        
+      <category>IGN</category>
+        
+      <category>Lyon</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>PGSession</category>
+        
+      <category>PostgreSQL</category>
+        
+      <category>QGIS</category>
+        
+      <category>QSoccer</category>
+        
+      <category>cartographie</category>
+        
+      <category>géo-communs</category>
+        
+      <category>occupation du sol</category>
+        
+      <category>revue de presse</category>
+        
+      <category>réseaux</category>
+        
+      
+      <description>GeoRDP du 2 juillet 2021. Au menu de la revue de presse de la géomatique ouverte et collaborative : LiDAR IGN, géocommuns, atlas QGIS, occupation du sol Esri, Lyon en 1700, un moteur de recherche en langage naturel sur OSM, du footbal dans QGIS... De quoi attaquer sereinement l&#39;été !</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-07-02/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 02 Jul 2021 15:50:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-07-02/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-07-02/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/glastonbury.jpg" type="image/jpeg" length="129888" />
+      
+    </item>
+    
+    <item>
+      <title>De petites applications webmapping avec R</title>
+      
+      
+        
+      <author>Romain LACROIX</author>
+        
+      
+      
+      
+        
+      <category>Leaflet</category>
+        
+      <category>MapBox</category>
+        
+      <category>R</category>
+        
+      <category>article</category>
+        
+      <category>carte interactive</category>
+        
+      <category>dashboard</category>
+        
+      <category>tutoriel</category>
+        
+      <category>webmapping</category>
+        
+      
+      <description>Comment réaliser des cartes interactives personnalisées simplement à l&#39;aide de R et quelques packages</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-06-25_webmapping_avec_r/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 25 Jun 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-06-25_webmapping_avec_r/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-06-25_webmapping_avec_r/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/webmapping_avec_r/exempletitre.png" type="image/png" length="919422" />
+      
+    </item>
+    
+    <item>
+      <title>Open Data Kit pour la collecte de données géographiques dans PostGIS (2/3)</title>
+      
+      
+        
+      <author>Mathieu BOSSAERT</author>
+        
+      
+      
+      
+        
+      <category>Android</category>
+        
+      <category>ODK</category>
+        
+      <category>Open Data Kit</category>
+        
+      <category>PostGIS</category>
+        
+      <category>PostgreSQL</category>
+        
+      <category>article</category>
+        
+      <category>collecte</category>
+        
+      
+      <description>Second article de présentation de la suite Open Data Kit (ODK) et son intégration au SI du CEN d&#39;Occitanie et dans les processus métiers.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-06-22_odk_postgis_2/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 22 Jun 2021 22:50:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-06-22_odk_postgis_2/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-06-22_odk_postgis_2/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/odk_postgis_collecte/open_data_kit_postgresql.png" type="image/png" length="158394" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 18 juin 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Inrae</category>
+        
+      <category>Jupyter</category>
+        
+      <category>Leafmap</category>
+        
+      <category>Mergin</category>
+        
+      <category>QField</category>
+        
+      <category>QGIS</category>
+        
+      <category>R</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>GeoRDP du 18 juin 2021 : Une petite revue de presse cette semaine mais c&#39;est au profit de la publication d&#39;articles ou d&#39;améliorations du site. Les quelques news témoignent néanmoins du dynamisme de l&#39;open source dans notre écosystème, avec l&#39;ouverture du code de Mergin et QFieldCloud.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-06-18/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 18 Jun 2021 18:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-06-18/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-06-18/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/qgis_carte_semirara_2021.jpg" type="image/jpeg" length="135040" />
+      
+    </item>
+    
+    <item>
+      <title>Personnaliser le splash screen de QGIS</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      
+      
+        
+      <category>QGIS</category>
+        
+      <category>article</category>
+        
+      <category>démarrage</category>
+        
+      <category>personnalisation</category>
+        
+      <category>splash screen</category>
+        
+      <category>tutoriel</category>
+        
+      
+      <description>Le lancement de QGIS vous semble long ? Vous êtes sur la LTR et las de voir la même image pendant 2 ans ? Voici comment personnaliser l&#39;image au lancement de QGIS.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-06-11_qgis_personnaliser_splash_screen/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 11 Jun 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-06-11_qgis_personnaliser_splash_screen/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-06-11_qgis_personnaliser_splash_screen/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_splash_screen/qgis_qtribu_splash_screen_custom.png" type="image/png" length="390751" />
+      
+    </item>
+    
+    <item>
+      <title>Open Data Kit pour la collecte de données géographiques dans PostGIS (1/3)</title>
+      
+      
+        
+      <author>Mathieu BOSSAERT</author>
+        
+      
+      
+      
+        
+      <category>Android</category>
+        
+      <category>ODK</category>
+        
+      <category>Open Data Kit</category>
+        
+      <category>PostGIS</category>
+        
+      <category>PostgreSQL</category>
+        
+      <category>article</category>
+        
+      <category>collecte</category>
+        
+      
+      <description>Premier article de présentation de la suite Open Data Kit (ODK) et son intégration au SI du CEN d&#39;Occitanie et dans les processus métiers.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-06-08_odk_postgis_1/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 08 Jun 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-06-08_odk_postgis_1/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-06-08_odk_postgis_1/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/odk_postgis_collecte/open_data_kit_postgresql.png" type="image/png" length="158394" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 4 juin 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Android</category>
+        
+      <category>Input</category>
+        
+      <category>Lego</category>
+        
+      <category>Mergin</category>
+        
+      <category>OSGeoLive</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>PostGIS</category>
+        
+      <category>QGIS</category>
+        
+      <category>cartographie</category>
+        
+      <category>pgRouting</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>GeoRDP du 4 juin 2021 : Des bougies à souffler, un évènement OpenStreetMap à ne pas rater, de la cartographie, une idée de déco pour le bureau et des mises à jour pour vos outils du quotidien.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-06-04/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 04 Jun 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-06-04/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-06-04/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/carte_pays_reconfine.png" type="image/png" length="563663" />
+      
+    </item>
+    
+    <item>
+      <title>Un rendu carte topo QGIS basé sur la BD TOPO®</title>
+      
+      
+        
+      <author>Florian BORET</author>
+        
+      
+      
+      
+        
+      <category>BD TOPO</category>
+        
+      <category>IGN</category>
+        
+      <category>QGIS</category>
+        
+      <category>Scan25</category>
+        
+      <category>article</category>
+        
+      <category>carte topographique</category>
+        
+      <category>tutoriel</category>
+        
+      
+      <description>Un rendu carte topographique avec QGIS et la BD TOPO®</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-05-28_carte_topo_qgis/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 15:00:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-05-28_carte_topo_qgis/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-05-28_carte_topo_qgis/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/qgis_carte_topo_bdtopo/export_carte_topo_saussines.png" type="image/png" length="1499719" />
+      
+    </item>
+    
+    <item>
+      <title>Aperçu de la bibliothèque PowerShell SI3P0</title>
+      
+      
+        
+      <author>Michaël GALIEN</author>
+        
+      
+      
+      
+        
+      <category>BAN</category>
+        
+      <category>PostGIS</category>
+        
+      <category>PostgreSQL</category>
+        
+      <category>PowerShell</category>
+        
+      <category>SIG</category>
+        
+      <category>adresse</category>
+        
+      <category>article</category>
+        
+      <category>open source</category>
+        
+      
+      <description>Petit aperçu de la bibliothèque PowerShell SI3P0 développée par le département du Gard pour la gestion de son SIg routes et bâtiments.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-05-25_biblio_powershell_si3p0/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 25 May 2021 16:00:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-05-25_biblio_powershell_si3p0/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-05-25_biblio_powershell_si3p0/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/api_powershell_si3p0/apercu_SI3P0-logo.png" type="image/png" length="127593" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 21 mai 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>CloudCompare</category>
+        
+      <category>ENSG</category>
+        
+      <category>GraphHopper</category>
+        
+      <category>IGN</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>Plugin QGIS</category>
+        
+      <category>cadastre</category>
+        
+      <category>carte routière</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>GeoRDP du 21 mai 2021 : plugin cadastre QGIS, du Python coté CloudCompare et GeoPandas, chronique radio sur les abstractions cartographiques, des débats sur de potentielles nouvelles licences open data, les journées de la recherche IGN, l&#39;AG d’OpenStreetMap France, etc.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-05-21/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 21 May 2021 17:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-05-21/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-05-21/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/carte_routiere.png" type="image/png" length="590873" />
+      
+    </item>
+    
+    <item>
+      <title>Les commentaires sur Geotribu : de Disqus à Isso</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      
+      
+        
+      <category>Geotribu</category>
+        
+      <category>Isso</category>
+        
+      <category>article</category>
+        
+      <category>commentaire</category>
+        
+      <category>open source</category>
+        
+      
+      <description>Rien à voir avec la Géo, mais tout à voir avec la Tribu : nous avons migré notre système de commentaires de Disqus vers Isso. Partage d&#39;expérience et contribution open source.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-05-14_commentaires_migration_disqus_isso/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 14 May 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-05-14_commentaires_migration_disqus_isso/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-05-14_commentaires_migration_disqus_isso/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/disqus_to_isso/geotribu_comments_isso_backend.png" type="image/png" length="163845" />
+      
+    </item>
+    
+  </channel>
+</rss>
